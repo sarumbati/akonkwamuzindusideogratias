@@ -1,0 +1,88 @@
+body{
+    background-color: aquamarine;
+}
+img{
+    margin-top: 40px;
+}
+#tete{
+    background-color: blanchedalmond;
+    width: 1500px;
+    height: 200px;
+    margin-top:-50px;
+}
+h1{
+    margin-left: 80px;
+    margin-top: -100px;
+}
+a{
+    margin-left: 1200px;
+    height: 500px;
+    margin-top: -40px;
+}
+#intro1{
+    background-color: rgb(25, 175, 180);
+    width: 1500px;
+    height: 400px;
+}
+
+.partie1{
+    width: 750px;
+    height: 400px;
+    animation: slide-img 200s  infinite;
+    background-image: url(r4.png);
+}
+.partie2{
+    width: 750px;
+    height: 400px;
+    margin-left: 750px;
+    margin-top: -400px;
+}
+
+.titre{
+    background-color:rgb(157, 247, 39);
+    color: rgb(32, 76, 196);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: rgb(131, 46, 88);
+}
+.autrepart{
+background-color: palegreen;
+width: 750px;
+height: 160px;
+margin-left: 750px;
+margin-top:-200px;
+}
+#corps{
+ background-color: rgb(247, 245, 245);
+ width: 1500px;
+ height: 500px;
+ 
+}
+.gauche{
+    width: 750px;
+    height: 500px;
+}
+.titre{
+    background-color:rgb(38, 231, 20);
+    color: rgb(32, 76, 196);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: rgb(131, 46, 88);
+}
+.droit{
+
+    width: 750px;
+    height: 500px;
+    margin-left: 750px;
+    margin-top: -505px;
+}
+.alt1{
+    float: left;
+}
+.pied{
+    display: inline-block;
+    width: 305px;
+    text-align: center;
+}
